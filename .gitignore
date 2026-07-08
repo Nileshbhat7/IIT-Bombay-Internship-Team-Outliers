@@ -25,3 +25,6 @@ Thumbs.db
 
 # config files/folders
 catboost_info/
+
+#extra 
+Models/*.pkl
