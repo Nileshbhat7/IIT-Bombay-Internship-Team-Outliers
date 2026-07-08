@@ -25,6 +25,33 @@ The objective of this project is to discover latent participant groups using mul
 
 ---
 
+---
+
+# 👥 Team Information
+
+**Project Type:** Team Internship Project
+
+**Internship:** IIT Bombay Summer Internship
+
+**Team Name:** Team Outliers
+
+### Team Members
+
+- Vishwajeet Kamat
+- **Nilesh Anil Bhat**
+- Team Outliers Members
+
+---
+
+# 👨‍💻 My Contributions
+
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Clustering Analysis
+- Machine Learning Experiments
+- Documentation
+
 # 📊 Dataset
 
 The dataset contains multiple data modalities, including:
