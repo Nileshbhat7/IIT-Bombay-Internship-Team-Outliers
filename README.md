@@ -38,8 +38,8 @@ The objective of this project is to discover latent participant groups using mul
 ### Team Members
 
 - Vishwajeet Kamat
-- **Nilesh Anil Bhat**
-- Team Outliers Members
+- **Nilesh Bhat**
+- Digvijay Dongale
 
 ---
 
@@ -118,7 +118,7 @@ IIT-Bombay-Internship-Team-Outliers/
 |------|
 | Vishwajeet Kamat |
 | **Nilesh Anil Bhat** |
-| Team Outliers Members |
+| Digvijay Dongale |
 
 ---
 
